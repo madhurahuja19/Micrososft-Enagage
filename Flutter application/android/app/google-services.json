@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872704709852",
+    "project_id": "nextflix-6437c",
+    "storage_bucket": "nextflix-6437c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872704709852:android:8b1e3accfe9a1faf2c1019",
+        "android_client_info": {
+          "package_name": "co.madhur_ahuja.nextflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872704709852-tlo1v3ln9lhnf4q7o8gqtci6g038clig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CGRbvp3fqNTM0krTTuGz4-Tox2fhz5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872704709852-tlo1v3ln9lhnf4q7o8gqtci6g038clig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

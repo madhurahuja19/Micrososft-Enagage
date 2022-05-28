@@ -1,0 +1,15 @@
+Flask
+Flask-Cors 
+Flask-RESTful
+gunicorn 
+joblib
+jsonschema
+pandas
+pickleshare
+requests
+requests-file
+scikit-learn
+scipy
+wcwidth
+webencodings
+Werkzeug
