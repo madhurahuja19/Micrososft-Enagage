@@ -1,6 +1,6 @@
 # Micrososft-Enagage
 folder flask api contains the code for API and recommendation model that I have made.
-folder Flutter Application contains the code of flutter app made.
+folder Flutter Application contains the code of flutter app made.(this is the folder to be used for cloning the app.)
 
 -This project is a flutter based mobile application system for a movie recommendation system.
 
