@@ -30,3 +30,10 @@ folder Flutter Application contains the code of flutter app made.(this is the fo
 
 - Firebase is used to set up user authentication.
 - SharedPreferences is used to store the recommendations of a user on local storage to improve the code performance.
+
+
+-About the **Recommendation model**
+-The user’s activity with the play button from movie screen is sent to a **Movies Provider** object in the app which sends movie details to the ** Flask based recommendation model** that I’ve created which connects with the app through an API and functions on the algorithm for content-based filtering, specifically cosine similarity method to compare how similar two movies are based on the keywords and cast involved.
+
+-Recommendations are returned to the movies provider by the model which then fetches the details like poster, cast, etc for the recommended movies from an external server, and data processed is forwarded to the **home screen** which displays the cards for the recommended movies.
+
